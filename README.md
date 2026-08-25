@@ -12,7 +12,7 @@
 <p align="center">
 💻 Front-end Developer em formação<br>
 📚 Estudante de <strong>Análise e Desenvolvimento de Sistemas — 4º semestre</strong><br>
-🌎 Rio Grande do Norte - Brasil
+🌎 Brasil
 </p>
 
 ---
