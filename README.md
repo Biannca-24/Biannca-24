@@ -1,17 +1,17 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Ol%C3%A1%2C+eu+sou+Bianca+Sabino!;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Foco+em+React+e+Cybersecurity;Sempre+aprendendo+e+construindo+projetos."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Ol%C3%A1%2C+eu+sou+Bianca+Sabino!;Front-end+Developer+em+forma%C3%A7%C3%A3o;Sempre+aprendendo+e+construindo+projetos."/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Bianca%20Sabino&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20ADS%20%7C%20Foco%20em%20React%20e%20Cybersecurity&descAlignY=60&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Bianca%20Sabino&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-end%20Developer%20em%20forma%C3%A7%C3%A3o&descAlignY=60&descSize=18"/>
 </p>
 
 <h1 align="center">👋 Olá, eu sou Bianca Sabino!</h1>
 
 <p align="center">
-💻 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong><br>
-📚 Atualmente no 4º semestre<br>
+💻 Front-end Developer em formação<br>
+📚 Estudante de <strong>Análise e Desenvolvimento de Sistemas — 4º semestre</strong><br>
 🌎 Rio Grande do Norte - Brasil
 </p>
 
@@ -19,15 +19,13 @@
 
 # 👩‍💻 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou construindo minha jornada na área de tecnologia.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e uma **Front-end Developer em formação**.
 
-Comecei desenvolvendo minha base em **HTML, CSS e JavaScript** através de estudos e projetos práticos.
+Venho construindo minha base através dos estudos e da prática com **HTML, CSS e JavaScript**, desenvolvendo projetos para transformar o conhecimento teórico em experiência prática.
 
-Atualmente, meu foco de estudo está em **React**, para continuar evoluindo no desenvolvimento Front-end, e em **Cybersecurity**, uma área que também desperta meu interesse.
+Atualmente, meu principal foco é continuar evoluindo no **desenvolvimento Front-end**, especialmente com **React**, e também estou explorando e estudando a área de **Cybersecurity**.
 
-Ainda tenho muito a aprender e estou em constante evolução. Meu objetivo é fortalecer minha base, construir projetos cada vez mais completos e transformar o conhecimento teórico em prática.
-
-Busco minha primeira oportunidade na área de tecnologia, onde possa aprender com profissionais mais experientes, desenvolver minhas habilidades e contribuir com dedicação e responsabilidade.
+Ainda tenho muito a aprender e estou construindo minha trajetória passo a passo. Meu objetivo é fortalecer meus conhecimentos, criar projetos cada vez mais completos e conquistar minha primeira oportunidade na área de tecnologia.
 
 ---
 
@@ -37,25 +35,21 @@ Busco minha primeira oportunidade na área de tecnologia, onde possa aprender co
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode"/>
 </p>
 
-Tecnologias que venho utilizando e praticando através dos meus estudos e projetos.
+Tecnologias e ferramentas que venho utilizando nos meus estudos e projetos.
 
 ---
 
 # 🎯 Meu foco atual
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react"/>
-</p>
-
 ### ⚛️ React
 
-Meu principal foco no desenvolvimento Front-end atualmente é evoluir de **JavaScript para React**, aprendendo a construir aplicações mais dinâmicas e organizadas.
+Meu principal foco dentro do desenvolvimento Front-end é evoluir meus conhecimentos em **React** e aprender a desenvolver aplicações mais dinâmicas e organizadas.
 
 ### 🔐 Cybersecurity
 
-Também estou estudando e explorando a área de **Cybersecurity**, buscando desenvolver conhecimentos sobre segurança digital e tecnologia.
+Também estou explorando e estudando **Cybersecurity**, uma área pela qual tenho interesse e pretendo continuar desenvolvendo conhecimentos.
 
-> Ainda estou em processo de aprendizado nessas áreas e construindo minha base aos poucos.
+> Ainda estou em processo de aprendizado e construindo minha base nessas áreas.
 
 ---
 
@@ -90,7 +84,7 @@ Projeto desenvolvido durante o evento **NLW**, colocando em prática conceitos d
 
 ### 🌐 Outros Projetos
 
-Continuo desenvolvendo novos projetos conforme avanço nos estudos. Cada projeto é uma oportunidade para praticar, cometer erros, corrigir e aprender algo novo.
+Continuo desenvolvendo novos projetos conforme avanço nos estudos. Cada projeto é uma oportunidade para praticar, errar, corrigir e aprender.
 
 ---
 
